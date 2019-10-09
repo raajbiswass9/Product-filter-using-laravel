@@ -4,4 +4,5 @@
 	DB_DATABASE=your db name 
 	DB_USERNAME=your db username
 	DB_PASSWORD=your db password
+	
 DEMO LINK: https://www.youtube.com/watch?v=1puu0LU0lIY&t=4s
